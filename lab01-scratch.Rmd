@@ -1,10 +1,10 @@
 ---
-title: "Untitled"
-author: "STAT 108"
+title: "Lab1"
+author: "Esther"
 date: "1/11/2022"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
